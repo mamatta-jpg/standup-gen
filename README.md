@@ -71,6 +71,11 @@ Chores:
 
 Reads `git log` for the time range, categorizes each commit by its prefix (`feat:`, `fix:`, `chore:`, etc.), strips the prefix for clean output, and groups everything by category. Works with any git repo — no config required.
 
+## From the same author
+
+- [env-leak](https://github.com/mamatta-jpg/env-leak) — scan your codebase for leaked API keys and secrets
+- [git-sage](https://github.com/mamatta-jpg/git-sage) — AI commit message generator for Claude and OpenAI
+
 ## License
 
 MIT
