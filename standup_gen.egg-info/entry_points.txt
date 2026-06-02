@@ -1,0 +1,2 @@
+[console_scripts]
+standup-gen = standup_gen.cli:main

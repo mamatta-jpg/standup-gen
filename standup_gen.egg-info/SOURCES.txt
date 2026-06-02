@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+standup_gen/__init__.py
+standup_gen/cli.py
+standup_gen/formatter.py
+standup_gen/git_reader.py
+standup_gen.egg-info/PKG-INFO
+standup_gen.egg-info/SOURCES.txt
+standup_gen.egg-info/dependency_links.txt
+standup_gen.egg-info/entry_points.txt
+standup_gen.egg-info/requires.txt
+standup_gen.egg-info/top_level.txt
+tests/test_formatter.py
